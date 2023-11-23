@@ -1,0 +1,107 @@
+nav{
+    background-color: rgb(17, 29, 41); 
+ color:black;
+ padding: 10px;
+ }
+ 
+ li,ul a{
+    text-decoration: none;
+     display: inline;
+     margin: 10px;
+     border: 3px solid transparent;
+    
+ }
+ ul li a:hover{
+    background-color: white;
+    color: black;
+ }
+ ul li.active a{
+    display: inline;
+    background-color: white;
+    color: black;
+ }
+ h5{
+     margin-left: 50%;
+ }
+ ul{
+     margin-left:20% ;
+ }
+ body{
+     background: url('tec.png');
+     background-size: cover;
+     background-repeat: no-repeat;
+ }  
+ #fami{
+  
+    color: white;
+margin: 0 auto;
+ }
+ .head{
+    color: white;
+    margin-left: 7%;
+    margin-top: 5%;
+    padding: 30px;
+ }
+ .para{
+    margin-left: 6%;
+    color: white;
+    
+ }
+ .note{
+    margin-left: 15%;
+    font-size: 140%;
+ }
+ .par{
+  
+    margin-left: 1%;
+    width: 50%;
+ }
+ .pic{
+    margin-left: 8%;
+   
+    padding: 230px 230px;
+   display: inline block;
+    background-image: url('cart.png') ;
+   background-size: 89%;
+   background-repeat: no-repeat;
+    height:38% ;
+    float: right;
+ }
+ 
+    
+
+ span.circ{
+    color: white;
+    margin-left: 60%;
+    background: white;
+    border-radius: 50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius: 50%;
+    display: inline-block;
+    color: black;
+    font-weight: bold;
+    width: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 200%;
+ }
+ span.circl{
+    color: white;
+    margin-top: 8%;
+    margin-left: 60%;
+    border: solid 2px rgb(19, 35, 36);
+    border-radius: 50%;
+    -moz-border-radius:50%;
+    -webkit-border-radius: 50%;
+    display: inline-block;
+    font-weight: bold;
+    width: 60px;
+    line-height: 60px;
+    text-align: center;
+    font-size: 200%;
+ }
+ .ert{
+    float: left;
+    width: 15.33%;
+ }
+ 

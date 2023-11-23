@@ -1,0 +1,71 @@
+
+nav{
+   background-color: rgba(52, 48, 48, 0.752); 
+   color:black;
+   padding: 10px;
+   }
+   
+   li,ul a{
+      text-decoration: none;
+       display: inline;
+       margin: 10px;
+       border: 2px solid transparent;
+      
+   }
+   ul li a:hover{
+      background-color: white;
+      color: black;
+   }
+   ul li.active a{
+      display: inline;
+      background-color: white;
+      color: black;
+   }
+h5{
+    margin-left: 50%;
+}
+ul{
+    margin-left:23% ;
+}
+.pic{
+    margin-left: 50%;
+    width: 300%;
+    padding: 220px 220px;
+   display: inline;
+    background-image: url('rew1.png') ;
+   background-size: 100%;
+   background-repeat: no-repeat;
+    height:300% ;
+}  
+    
+body{
+   margin: 0;
+   padding: 0;
+    background-image:url("sre1.png");
+  background-position: center;
+  background-size: cover;
+   background-repeat: no-repeat;
+    
+}
+
+   .heading{
+    margin-left: 3%;
+    margin-top: 5%;
+    padding: 30px;
+       color:white;
+   }
+   .para{
+       margin-left: 5%;
+       
+       color: rgb(124, 104, 104);
+   }
+   .note{
+       margin-left: 5%;
+       color: white;
+   }
+   .par{
+    margin-left: 5%;
+   color: white;
+   width: 30%;
+        
+   }
